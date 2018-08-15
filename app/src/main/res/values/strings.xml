@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Domino Scoreboard</string>
+    <string name="zerar_placar">zerar placar</string>
+    <string name="value_init">0</string>
+    <string name="soma_1_ponto">+ 1 Ponto</string>
+    <string name="soma_2_ponto">+ 2 Ponto</string>
+    <string name="dupla_2">Dupla 2</string>
+    <string name="dupla_1">Dupla 1</string>
+    <string name="dupla_3">Dupla 3</string>
+    <string name="dupla_4">Dupla 4</string>
+</resources>
